@@ -1,0 +1,15 @@
+To run the program, select "Build" menu ⇒ Run. To create more source file or header file under the project: 
+File ⇒ New File... 
+⇒ Select C/C++ source or C/C++ header.
+
+### to run this program in linux terminal ###
+
+#include<stdio.h> /* demo.c: My first C program on a Linux */ int main(void) { printf("Hello! ...
+cc program-source-code.c -o executable-file-name.
+gcc program-source-code.c -o executable-file-name.
+## assuming that executable-file-name.c exists ## make executable-file-name.
+
+
+
+
+### i design this code by using codeblack ###
